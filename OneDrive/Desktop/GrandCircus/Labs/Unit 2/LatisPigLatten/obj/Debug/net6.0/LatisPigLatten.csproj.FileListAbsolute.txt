@@ -1,0 +1,15 @@
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\bin\Debug\net6.0\LatisPigLatten.exe
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\bin\Debug\net6.0\LatisPigLatten.deps.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\bin\Debug\net6.0\LatisPigLatten.runtimeconfig.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\bin\Debug\net6.0\LatisPigLatten.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\bin\Debug\net6.0\LatisPigLatten.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\LatisPigLatten.csproj.AssemblyReference.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\LatisPigLatten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\LatisPigLatten.AssemblyInfoInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\LatisPigLatten.AssemblyInfo.cs
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\LatisPigLatten.csproj.CoreCompileInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\LatisPigLatten.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\refint\LatisPigLatten.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\LatisPigLatten.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\LatisPigLatten.genruntimeconfig.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\LatisPigLatten\obj\Debug\net6.0\ref\LatisPigLatten.dll
