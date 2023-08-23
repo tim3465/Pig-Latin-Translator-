@@ -1,0 +1,33 @@
+<H1>{{title}}</H1>
+<table>
+
+  <tr>
+    <!-- tabl hedder -->
+    <th class="tableData">Name</th> 
+    <th class="tableData">Category</th>
+    <th class="tableData"> Price</th>
+  </tr>
+  <tr *ngFor="let c of OnTheMenu">
+    <!-- tabel data -->
+    <td class="tableData">{{ c.Name }}</td>
+    <td class="tableData">{{ c.Category }}</td>
+    <td class="tableData">{{ c.Price }}</td>
+
+  </tr>
+</table>
+
+<table *ngFor="let b of GetDistinctCategories()">
+
+  <tr>
+    <!-- tabl hedder -->
+    <th class="tableData colorDinner">{{ b }}</th>
+    <th class="tableData"> Price</th>
+  </tr>
+  <tr *ngFor="let c of getByCategory(b)">
+    <!-- tabel data -->
+    <td class="tableData">{{ c.Name }}</td>
+    <td class="tableData">{{ c.Price }}</td>
+
+  </tr>
+</table>
+
